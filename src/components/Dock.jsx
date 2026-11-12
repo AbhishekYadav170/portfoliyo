@@ -1,6 +1,4 @@
-import React, { useState } from 'react'
 import "./dock.scss"
-// import Spotify from './windows/Spotify';
 
 
 const Dock = ({windowsState, setWindowsState}) => {
